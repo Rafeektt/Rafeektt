@@ -74,13 +74,6 @@ Production systems delivered across Bahrain, KSA, Qatar and India.
 | [**Masaar Store**](https://masaarstore.com) | Doha, Qatar | Multilingual (Arabic and English) e-commerce store with Tap Payments, Buy Now Pay Later and automated order fulfillment | Magento 2, PHP, MySQL |
 | [**Amztor Store**](https://amztor.com) | Doha, Qatar | Electronics and accessories store with QAR pricing, catalog browsing, product inquiry and fast checkout | OpenCart, PHP, MySQL |
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rafeektt&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafeektt&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
 ## 📫 Let's Connect
 
 - 💬 WhatsApp: [+973 362 74516](https://wa.me/97336274516)
