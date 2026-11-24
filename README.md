@@ -30,27 +30,27 @@ Alongside that, I act as lead developer and ERP specialist for growing businesse
 
 | Country | Role | Delivered |
 |---------|------|-----------|
-| 🇧🇭 **Bahrain** | Senior Software Developer | "Insider" enterprise portal (200+ active staff), BioStar 2 biometric attendance and REST API sync, Odoo 16 ERP for SK Power Solutions, Sage 300 and MSSQL bi-directional sync middleware |
-| 🇸🇦 **Saudi Arabia** | ERP & Cloud Developer | Cloud Odoo ERP and regional accounting for JazSolution, Laravel operations and project management portal, ZATCA e-invoicing compliance and workflow automation |
-| 🇶🇦 **Qatar** | Lead Commerce Developer | Masaar Store (Magento 2, Arabic and English, Tap and BNPL), Amztor Store (OpenCart), automated catalog indexing, fulfillment and inventory tracking |
-| 🇮🇳 **India** | Platform Architect | MyCafeResto: QR contactless menus, live TV offer signage, FilamentPHP v3 back office with Livewire |
+| **Bahrain** | Senior Software Developer | "Insider" enterprise portal (200+ active staff), BioStar 2 biometric attendance and REST API sync, Odoo 16 ERP for SK Power Solutions, Sage 300 and MSSQL bi-directional sync middleware |
+| **Saudi Arabia** | ERP & Cloud Developer | Cloud Odoo ERP and regional accounting for JazSolution, Laravel operations and project management portal, ZATCA e-invoicing compliance and workflow automation |
+| **Qatar** | Lead Commerce Developer | Masaar Store (Magento 2, Arabic and English, Tap and BNPL), Amztor Store (OpenCart), automated catalog indexing, fulfillment and inventory tracking |
+| **India** | Platform Architect | MyCafeResto: QR contactless menus, live TV offer signage, FilamentPHP v3 back office with Livewire |
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,php,flutter,js,nodejs,py,tailwind,postgres,mysql,docker,linux,git,github,aws,azure" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,codeigniter,js,nodejs,py,flutter,tailwind,mysql,mariadb,postgres,docker,nginx,ubuntu,linux,git,github,aws,azure&perline=10" alt="Tech stack" />
 </p>
 
 | Area | Tools |
 |------|-------|
-| **Web & Mobile** | Laravel, FilamentPHP, Livewire, CodeIgniter, JavaScript (ES6+), Node.js, Python, Flutter, Tailwind CSS, RESTful APIs |
-| **E-Commerce** | Magento 2, OpenCart |
-| **ERP** | Sage ERP 300, Sage CRM & BI, Odoo ERP |
-| **Databases** | MSSQL Server, PostgreSQL, MySQL / MariaDB |
+| **Web & Mobile** | Laravel (core backend, 10+ years), FilamentPHP (TALL stack), Livewire, CodeIgniter, JavaScript (ES6+), Node.js (microservices), Python (ETL and scripts), Flutter (iOS and Android), Tailwind CSS, RESTful APIs (JSON / Auth) |
+| **E-Commerce** | Magento 2 (Adobe, Tap Payments), OpenCart (MVC-L and catalog) |
+| **ERP** | Sage ERP 300 (finance and supply), Sage CRM & BI (lead funnels, analytics), Odoo ERP (Python and PostgreSQL custom apps) |
+| **Databases** | MSSQL Server (stored procedures), PostgreSQL (ACID, JSONB), MySQL / MariaDB (query optimization) |
 | **Hardware Integration** | BioStar 2 API (biometric sync) |
-| **DevOps & Cloud** | Docker, Linux (Ubuntu / CentOS), Nginx, Git & GitHub, CI/CD, AWS EC2 |
-| **Identity & Networking** | Azure AD & M365, Cisco Meraki, Sophos Firewall |
-| **AI & Automation** | n8n, Ollama (Llama / Mistral), Cursor, agentic workflows, webhook integrations |
+| **DevOps & Cloud** | Docker (Compose and registry, 3x verified), Linux (Ubuntu / CentOS, systemd, Nginx), Git & GitHub (CI/CD pipelines), AWS EC2 (security and storage) |
+| **Identity & Networking** | Azure AD & M365 (SSO and identity), Cisco Meraki (SD-WAN and VLANs), Sophos Firewall (perimeter defense) |
+| **AI & Automation** | n8n (webhook pipelines), Ollama (local Llama / Mistral models), Antigravity and Cursor (AI-assisted development), agentic workflows, webhook integrations (ETL and sync) |
 
 ## 🧠 How I Build Software
 
